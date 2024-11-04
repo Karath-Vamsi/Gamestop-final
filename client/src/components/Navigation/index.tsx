@@ -15,14 +15,15 @@ const Navigation = () => {
 
   return (
     <StyledNavigation darkenImages={isAddGamePage}>
-      <Link to={PATHS.addGame}>
+      {/* <Link to={PATHS.addGame}>
         <Plus />
-      </Link>
+      </Link> */}
       <Divider />
       <CartWrapper darkenImages={isAddGamePage} onClick={openCart}>
         <CartSVG />
         {inCartGames.length > 0 && <Circle />}
       </CartWrapper>
+      <Divider />
     </StyledNavigation>
   )
 }
