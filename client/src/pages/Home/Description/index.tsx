@@ -13,20 +13,19 @@ import {
 const Description = () => (
   <StyledDescription>
     <Pitch>
-      <Header>Game Harbor</Header>
+      <Header>GameStop</Header>
       <p>
-        It’s not a commercial project. You can’t buy any games here and all of
-        the prices are generated to imitate a real game shop.
+      This is not a commercial project. No games are available for purchase here, and all prices are generated to simulate a genuine game shop experience. Our aim is to provide an engaging environment for users to explore without any actual transactions taking place.
       </p>
-      <EnjoyBlock>
+      {/* <EnjoyBlock>
         <p>Enjoy</p> <p>😉</p>
-      </EnjoyBlock>
+      </EnjoyBlock> */}
     </Pitch>
     <Links>
-      <Link href="https://github.com/alex-dishen" target="_blank">
+      {/* <Link href="https://github.com/alex-dishen" target="_blank">
         <Github />
         alex-dishen
-      </Link>
+      </Link> */}
       <Link href="https://rawg.io/apidocs" target="_blank">
         <RAWGLogo src={rawg} alt="RAWG logo" />
         RAWG API
