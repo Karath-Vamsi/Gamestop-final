@@ -6,4 +6,4 @@
 - Search any game you want.
 - Filters to find exact genre or release period.
 - Cart for games user wants to 'buy'
-- An extensive catalouge og games spanning multiple decade and platforms
+- An extensive catalouge of games spanning multiple decade and platforms
