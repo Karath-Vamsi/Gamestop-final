@@ -15,7 +15,7 @@ const Description = () => (
     <Pitch>
       <Header>GameStop</Header>
       <p>
-      This is not a commercial project. No games are available for purchase here, and all prices are generated to simulate a genuine game shop experience. Our aim is to provide an engaging environment for users to explore without any actual transactions taking place.
+      This is not a commercial project. No games are available for purchase here, and all prices are generated to simulate a genuine game shop experience. Built with RAWG games.
       </p>
       {/* <EnjoyBlock>
         <p>Enjoy</p> <p>😉</p>
