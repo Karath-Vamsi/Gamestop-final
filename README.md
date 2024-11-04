@@ -7,3 +7,9 @@
 - Filters to find exact genre or release period.
 - Cart for games user wants to 'buy'
 - An extensive catalouge of games spanning multiple decade and platforms
+
+<h2>Contibutors</h2>
+
+- [Karath Vamsi V.](https://github.com/Karath-Vamsi)
+- [Param Gholap](https://github.com/tuuo-bit)
+- [Sharan A.](https://github.com/sharanAlleni)
