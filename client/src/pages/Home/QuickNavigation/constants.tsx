@@ -9,7 +9,7 @@ import { ReactComponent as Tiles } from 'assets/images/tiles.svg'
 
 const places = [
   { id: nanoid(), name: 'Play Dice', icon: <Dice />, place: 'games/game' },
-  { id: nanoid(), name: 'Added Games', icon: <Tiles />, place: 'games' },
+  // { id: nanoid(), name: 'Added Games', icon: <Tiles />, place: 'games' },
   { id: nanoid(), name: 'Last 30 days', icon: <Star />, place: 'games' },
   {
     id: nanoid(),
