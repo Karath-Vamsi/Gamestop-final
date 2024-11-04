@@ -31,6 +31,7 @@ export const Header = styled.h1(
     text-align: center;
     font-size: ${theme.fontSizes['3xl']};
     font-weight: 800;
+    color: black;
   `,
 )
 
