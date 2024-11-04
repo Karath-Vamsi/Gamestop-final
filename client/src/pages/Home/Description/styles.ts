@@ -19,6 +19,7 @@ export const Pitch = styled.div`
   color: white;
   border-radius: 20px;
   backdrop-filter: blur(7px);
+  text-align: justify;
 
   p {
     margin: 0;
@@ -31,7 +32,12 @@ export const Header = styled.h1(
     text-align: center;
     font-size: ${theme.fontSizes['3xl']};
     font-weight: 800;
-    color: black;
+    transition: 0.3s;
+
+    &:hover {
+      color: #151e3d;
+      transform: scale(1.1); // Color on hover
+    }
   `,
 )
 
