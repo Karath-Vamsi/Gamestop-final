@@ -22,10 +22,6 @@ const Description = () => (
       </EnjoyBlock> */}
     </Pitch>
     <Links>
-      {/* <Link href="https://github.com/alex-dishen" target="_blank">
-        <Github />
-        alex-dishen
-      </Link> */}
       <Link href="https://rawg.io/apidocs" target="_blank">
         <RAWGLogo src={rawg} alt="RAWG logo" />
         RAWG API
