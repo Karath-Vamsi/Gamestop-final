@@ -12,7 +12,7 @@ const GameHeader = () => {
   return (
     <Header>
       <BackButton to={PATHS.games} relative="path">
-        <ArrowLeft /> Harbor
+        <ArrowLeft /> Back to Arcade
       </BackButton>
       <GameName>{gameName}</GameName>
     </Header>
